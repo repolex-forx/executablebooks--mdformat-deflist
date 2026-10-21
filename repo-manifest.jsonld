@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/mdformat-deflist/commit/83e4b1810cf17ccdaa238c3698628d7371e2fb48",
       "git:hexsha": "83e4b1810cf17ccdaa238c3698628d7371e2fb48",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.4"
     },
     {
