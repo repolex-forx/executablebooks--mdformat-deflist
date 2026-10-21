@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/mdformat-deflist/commit/83e4b1810cf17ccdaa238c3698628d7371e2fb48",
       "git:hexsha": "83e4b1810cf17ccdaa238c3698628d7371e2fb48",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.1.4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.1.4",
+      "repolex:parsedAt": "2026-10-21T21:36:05.508080+00:00"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/mdformat-deflist/commit/67f175d07e499383b2cc6aba98ff0856e5d8fbfc",
