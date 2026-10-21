@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "mdformat-deflist",
+  "versions": [
+    {
+      "commit": "83e4b1810cf17ccdaa238c3698628d7371e2fb48",
+      "tag": "v0.1.4",
+      "parsed_at": "2026-10-21T21:36:05.523750+00:00"
+    }
+  ]
+}
